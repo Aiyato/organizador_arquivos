@@ -21,7 +21,7 @@ Projeto em Python para organizar arquivos automaticamente por extensão.
 Clone o repositório:
 
 ```bash
-git clone SEU_LINK_AQUI
+https://github.com/Aiyato/organizador_arquivos.git
 ```
 
 Execute o script:
