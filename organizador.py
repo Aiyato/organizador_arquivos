@@ -1,6 +1,6 @@
 import os   
 import shutil   
-pasta = "C:/Users/brenn/Downloads"
+pasta = input("Digite o caminho da pasta: ")
 arquivos = os.listdir(pasta)
 
 tipos ={
